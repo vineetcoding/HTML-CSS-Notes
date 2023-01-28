@@ -1,7 +1,7 @@
 body{
-    background: gray;
+    background: rgb(249, 183, 183);
 }
-img{
+canvas{
+    border: 1px solid red;
     color: aqua;
-    background-color: pink;
 }
